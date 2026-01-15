@@ -4,5 +4,5 @@
   <a href="https://bsky.app/profile/mollystroud.bsky.social">Bluesky</a> /
   <a href="https://scholar.google.com/citations?user=ltedZ_gAAAAJ&hl=en">Google Scholar</a>
   <br><br>
-  <img src="https://github.com/mollystroud/mollystroud/blob/main/star.gif" />
+  <img src="https://github.com/mollystroud/mollystroud/blob/main/star.gif" width="50"/><img src="https://github.com/mollystroud/mollystroud/blob/main/star.gif" width="50"/><img src="https://github.com/mollystroud/mollystroud/blob/main/star.gif" width="50"/><img src="https://github.com/mollystroud/mollystroud/blob/main/star.gif" width="50"/><img src="https://github.com/mollystroud/mollystroud/blob/main/star.gif" width="50"/><img src="https://github.com/mollystroud/mollystroud/blob/main/star.gif" width="50"/>
 </p>

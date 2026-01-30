@@ -1,4 +1,4 @@
-<h3 align="center">Welcome to my GitHub 🐿️</h3>
+<h3 align="center">Welcome to my GitHub 🦝</h3>
 <p align="center">
   <a href="https://mollystroud.github.io">Website</a> ✦
   <a href="https://bsky.app/profile/mollystroud.bsky.social">Bluesky</a> ✦
